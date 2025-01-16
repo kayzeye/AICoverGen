@@ -1,0 +1,2 @@
+ 
+to activate venv, go inside aicovergen/Scripts and then activate
